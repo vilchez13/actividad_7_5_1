@@ -20,6 +20,10 @@ public class HolaMundo {
         
         /*Nueva modificacion*/
         
+        
+        System.out.println("ADIOS");
+        System.out.println("VERDE");
+        System.out.println("ROJO");
     }
     
 }
